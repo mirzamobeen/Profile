@@ -1,4 +1,4 @@
-Hi there, I'm Mirza Muhammad Mobeen! 👋
+**Hi there, I'm Mirza Muhammad Mobeen! 👋**
 
 Welcome to my GitHub profile! I’m a passionate Computer Science graduate with a focus on Project Management/Coordination, Founder, Communities Lead, Business Developer, and Software Development. I love solving problems and creating solutions that have a meaningful impact.
 
